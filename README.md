@@ -4,7 +4,7 @@
 
 - [IRC 란?](#irc-란)
 - [팀원](#팀원)
-  - [수행한 역할 - jiwolee](#수행한-역할---jiwolee)
+  - [수행한 역할 - jchoi](#수행한-역할---jchoi)
 - [목표](#목표)
 - [접근법](#접근법)
 - [Mimic-irc 구현사항](#mimic-irc-구현사항)
@@ -22,15 +22,6 @@ IRC란 Internet Relay Chat의 약자로 실시간 인터넷 채팅 프로토콜�
 <div align="center"> irssi 클라이언트가 서버에 접속했을때 출력되는 화면</div>
 
 ---
-<!--
-# 목차
-
-- [팀원](https://github.com/jwo1024/Mimic-IRC#%ED%8C%80%EC%9B%90)
-- [수행한 역할 - jiwolee](https://github.com/jwo1024/Mimic-IRC#%EC%88%98%ED%96%89%ED%95%9C-%EC%97%AD%ED%95%A0---jiwolee)
-- [IRC](https://github.com/jwo1024/Mimic-IRC#irc)
-- [Mimic-irc 사용 및 테스트](https://github.com/jwo1024/Mimic-IRC#mimic-irc-%EC%82%AC%EC%9A%A9-%EB%B0%8F-%ED%85%8C%EC%8A%A4%ED%8A%B8)
-- [Mimic-irc 구현사항](https://github.com/jwo1024/Mimic-IRC#mimic-irc-%EA%B5%AC%ED%98%84%EC%82%AC%ED%95%AD)
--->
 ## 팀원
 
 - jayoon, **jchoi**, jiwolee, jiyun, seoyoo
