@@ -33,15 +33,14 @@ IRC란 Internet Relay Chat의 약자로 실시간 인터넷 채팅 프로토콜�
 -->
 ## 팀원
 
-- jayoon, jchoi, **jiwolee**, jiyun, seoyoo
+- jayoon, **jchoi**, jiwolee, jiyun, seoyoo
 
-### 수행한 역할 - jiwolee
+### 수행한 역할 - jchoi
 
 - kqueue-poller 관리
-- client 요청 cmd 파싱
+- Socket class 구현
 - IRC RFC 분석 및 프로토콜 cmd 구현
-- bot 기능 추가
-- 서버의 Wellcome-message 아스키아트 제작
+  - TOPIC, MODE +-(i, t, k, l, o)  
 - 수 많은 테스트..
 
 # 목표
